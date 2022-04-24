@@ -1,4 +1,4 @@
-package com.yassineaddi.ioc;
+package com.yassineaddi.simpleioc;
 
 import static org.junit.Assert.assertTrue;
 
